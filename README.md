@@ -8,10 +8,10 @@
   <a href="https://linkedin.com/in/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/tu-usuario" target="_blank">
+  <a href="https://x.com/gaelvelazquezlx" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:tu-email@example.com" target="_blank">
+  <a href="mailto:gaelvela18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -47,6 +47,19 @@
 </p>
 
 ---
+
+### 🚀 Sobre mí
+- 💻 Me apasiona aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
+- 🌱 Actualmente estoy profundizando en **Next.js y Tailwind CSS**.
+- 📚 Siempre busco colaborar en proyectos que hagan un impacto positivo.
+
+---
+
+### ✨ Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Racha de contribuciones">
+</p>
 
 ### 🚀 Sobre mí
 - 💻 Me apasiona aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
