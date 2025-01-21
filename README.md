@@ -55,18 +55,6 @@
 
 ---
 
-### ✨ Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Racha de contribuciones">
-</p>
-
-### 🚀 Sobre mí
-- 💻 Me apasiona aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
-- 🌱 Actualmente estoy profundizando en **Next.js y Tailwind CSS**.
-- 📚 Siempre busco colaborar en proyectos que hagan un impacto positivo.
-
----
 
 ### ✨ Estadísticas de GitHub
 <p align="center">
