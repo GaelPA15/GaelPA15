@@ -58,6 +58,8 @@
 
 ### ✨ Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Racha de contribuciones">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaelPA15&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaelPA15&theme=radical" alt="Racha de contribuciones">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelPA15&layout=compact&theme=radical" alt="Lenguajes más utilizados">
 </p>
+
