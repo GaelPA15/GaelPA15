@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gael Velazquez</h1>
-<h3 align="center">Desarrollador apasionado de México</h3>
+<h3 align="center">Desarrollador de México</h3>
 
 ---
 
